@@ -1,9 +1,9 @@
 # Tuto-docker
-# 📦 Commandes de Base Docker
+# Commandes de Base Docker
 
 Ce document résume les commandes Docker les plus utilisées pour créer, gérer, et déployer des conteneurs.
 
-## 🐳 1. Installation
+## Installation
 
 ### Vérifier si Docker est installé :
 ```bash
